@@ -1,7 +1,7 @@
 # 💻 Hannah Chacko
 **Aspiring Software Engineer**
 
-📧 chacko.h@northeastern.edu | 🌍 [LinkedIn](https://www.linkedin.com/in/hannah-chacko-9804b3297/) | 📂 [Portfolio](#)
+📧 chacko.h@northeastern.edu | 🌍 [LinkedIn](https://www.linkedin.com/in/hannah-chacko-9804b3297/)
 
 ---
 
@@ -72,7 +72,7 @@ Aspiring Software Engineer with a strong foundation in computer science and AI, 
 ---
 
 ## 📌 Let's Connect!
-📧 chacko.h@northeastern.edu | 🌍 [LinkedIn](https://www.linkedin.com/in/hannah-chacko-9804b3297/) | 📂 [Portfolio](#)
+📧 chacko.h@northeastern.edu | 🌍 [LinkedIn](https://www.linkedin.com/in/hannah-chacko-9804b3297/)
 
 ---
 
